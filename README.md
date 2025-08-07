@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rini! 👋
 
-<!--
-**Riniii09/Riniii09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final year Computer Engineering student with a strong interest in web development, AI & ML, data visualization, analysis, and game development. I enjoy building things with Python and Java, working across both frontend and backend, and exploring how technology can solve real-world problems.
 
-Here are some ideas to get you started:
+Some areas I love working on:
+- Creating interactive and informative data visualizations
+- Developing AI/ML models that offer practical insights
+- Building web applications with robust backend logic and clean frontends
+- Experimenting with game development for fun and learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, you'll probably find me staring out the window with my headphones on.
+
+---
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rinipillai/)
+- [X (Twitter)](https://x.com/needforwaffles)
+
+---
+
+> Always learning, creating, and playing whether it's with code, data, music, or game!
+> AND I LOVE VS CODE PETS THANKYOU TO THE CREATOR 🦀
