@@ -1,12 +1,12 @@
-# Hi, I'm Rini! 👋
+Hi, I'm Rini! 👋
+----------------
 
-I'm a final year Computer Engineering student with a strong interest in web development, AI & ML, data visualization, analysis, and game development. I enjoy building things with Python and Java, working across both frontend and backend, and exploring how technology can solve real-world problems.
+I'm a Software Developer looking to channel my creativity, I spend most of my time breaking and (hopefully) fixing things. I’m all about clean backend logic, building web apps that actually work, and automating whatever I can.
 
-Some areas I love working on:
-- Creating interactive and informative data visualizations
-- Developing AI/ML models that offer practical insights
-- Building web applications with robust backend logic and clean frontends
-- Experimenting with game development for fun and learning
+### What I actually do:
+*   Writing Python & building with frameworks like Flask, Next.js, etc.
+*   Making tools that make life easier (or at least more interesting).
+*   Experimenting with game dev when I feel like it.
 
 When I'm not coding, you'll probably find me staring out the window with my headphones on.
 
